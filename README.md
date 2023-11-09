@@ -1,4 +1,4 @@
-[![logo](https://github.com/adkdhinesh/adkdhinesh.git)
+![logo](https://github.com/adkdhinesh/adkdhinesh.git)
 <h1 align="center">Hi 👋, I'm Ashutosh Mishra</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
