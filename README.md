@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm DINESH KUMAR </h1>
 <h3 align="center">A passionate software developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://tenor.com/view/coding-gif-24297652">
-<p align="left"> <img src="[https://komarev.com/ghpvc/?username=adkdhinesh&label=Profile%20views&color=0e75b6&style=flat](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F846254586223209431%2F&psig=AOvVaw3EpszImalDVpAvDarojlwF&ust=1699720625569000&source=images&cd=vfe&opi=89978449&ved=2ahUKEwiSu43y7rmCAxWybGwGHTu4DfAQjRx6BAgAEA0)" alt="adkdhinesh" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=adkdhinesh&label=Profile%20views&color=0e75b6&style=flat](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F846254586223209431%2F&psig=AOvVaw3EpszImalDVpAvDarojlwF&ust=1699720625569000&source=images&cd=vfe&opi=89978449&ved=2ahUKEwiSu43y7rmCAxWybGwGHTu4DfAQjRx6BAgAEA0" alt="adkdhinesh" /> </p>
 
 - ⚡ Fun fact **Passionate about travel, exploring life's fun facts, and embracing every moment. 🌍✨ Join me on this exciting journey! #Traveler #LifeExplorer #FunFacts"**
 
