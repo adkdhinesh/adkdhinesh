@@ -1,4 +1,4 @@
-![logo](https://github.com/adkdhinesh/adkdhinesh/blob/main/20231110_215501.jpg)) 
+![logo](https://github.com/adkdhinesh/adkdhinesh/blob/main/20231110_215501.jpg)
 <h1 align="center">Hi 👋, I'm DINESH Adk</h1>
 <h3 align="center">A passionate software developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://tenor.com/view/coding-gif-24297652">
