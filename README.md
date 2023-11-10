@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm DINESH KUMAR </h1>
 <h3 align="center">A passionate software developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://tenor.com/view/coding-gif-24297652">
-<p align="left"> <img src="https://github.com/adkdhinesh/adkdhinesh/assets/150335746/85696e3e-5278-4d3f-8b84-a8eebcc83385" alt="adkdhinesh" /> </p>
+<p align="left"> <img src="https://i.pinimg.com/originals/2f/f4/28/2ff428006f3ade5f10beac69372062ab.gif" alt="adkdhinesh" /> </p>
 
 - ⚡ Fun fact **Passionate about travel, exploring life's fun facts, and embracing every moment. 🌍✨ Join me on this exciting journey! #Traveler #LifeExplorer #FunFacts"**
 
